@@ -1,8 +1,2 @@
-﻿  Main.cpp
-E:\Coding\Eulerian_path\Main.cpp(19): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
-E:\Coding\Eulerian_path\Main.cpp(28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-E:\Coding\Eulerian_path\Main.cpp(27): warning C4101: 'edges': unreferenced local variable
-E:\Coding\Eulerian_path\Main.cpp(89): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Node.cpp
-  Generating Code...
+﻿  graph.cc
   Eulerian_path.vcxproj -> E:\Coding\Eulerian_path\x64\Debug\epath.exe
